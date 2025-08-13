@@ -40,4 +40,6 @@ This platform offers educational insights; no promotion of illegal activity is m
 
 Information provided is for educational purposes only. We do not condone illegal activity.
 
-Update:  Monday 04 August 2025 Hey everyone, the broken link has been fixed.
+
+
+Update:  08/13/2025 link is functioning properly
