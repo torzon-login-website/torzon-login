@@ -4,11 +4,11 @@
 
 ## Securing Your TorZon Login
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion
 
-[<img src="/third-party/snapshot.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/third-party/snapshot.webp" width="200">](http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/third-party/flat.webp" alt="TorZon Login" style="max-width: 100%;"></a>
+<a href="http://torzon5lmv6m7ws5ta6eh3r63shkjbz2mqrf7ymjrmgru2bogfnec3yd.onion"><img src="/third-party/flat.webp" alt="TorZon Login" style="max-width: 100%;"></a>
 
 This platform offers educational insights; no promotion of illegal activity is made.
 
@@ -44,4 +44,6 @@ Information provided is for educational purposes only. We do not condone illegal
 
 
 
-Update:  23 August Fixed inaccessible url
+
+
+Update:  12 September
