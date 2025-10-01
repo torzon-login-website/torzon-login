@@ -50,4 +50,6 @@ Information provided is for educational purposes only. We do not condone illegal
 
 
 
-Update:  Thursday 18 September 2025 onion URLs repaired
+
+
+Update:  01 October 2025 url is live and functioning properly
